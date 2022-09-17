@@ -1,0 +1,101 @@
+body{
+    background-color: #222fd9;
+}
+
+.semua{
+    background-color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    border-radius: 20px;
+    float: left;
+}
+
+h2{
+    color: black;
+}
+
+.header{
+    background-color: white;
+    border-radius: 20px;
+    height: 20%;
+    font-family: system-ui;
+    text-align: center;
+    align-items: center;
+    padding: 35px;
+    color: gray;
+    font-size: 18px;
+    float: left;
+}
+
+.content{
+    width: 100%;
+    height: max-content;
+    background-color: #cfdbe9;
+    float: left;
+    border-top: 3px solid #818aff;
+    border-bottom: 3px solid #818aff;
+}
+
+.gambar{
+    width: 45%;
+    align-items: center;
+    float: left;
+    padding: 20px;
+}
+
+.keterangan{
+    width: 49%;
+    float: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    font-size: 17px;
+    margin-top: 35px;
+}
+
+h4{
+    color: gray;
+}
+
+.footer{
+    width: 100%;
+    float: left;
+    font-family: system-ui;
+    text-align: center;
+}
+
+.ig{
+    width: 33%;
+    height: 100px;
+    background-color: #a4497f;
+    padding-top: 30px;
+    font-family: system-ui;
+    color: white;
+    float: left;
+}
+
+.fb{
+    width: 33%;
+    height: 100px;
+    background-color: #7084d5;
+    padding-top: 30px;
+    font-family: system-ui;
+    color: white;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.tw{
+    width: 34%;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: #99c5f6;
+    padding-top: 30px;
+    font-family: system-ui;
+    color: white;
+    float: left;
+}
+
+.kaki{
+    font-family: system-ui;
+    color: #222fd9;
+}
